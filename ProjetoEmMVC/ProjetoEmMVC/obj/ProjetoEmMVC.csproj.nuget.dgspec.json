@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\ProjetoEmMVC\\ProjetoEmMVC\\ProjetoEmMVC.csproj": {}
+    "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ProjetoEmMVC\\ProjetoEmMVC\\ProjetoEmMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\ProjetoEmMVC\\ProjetoEmMVC\\ProjetoEmMVC.csproj": {
+    "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ProjetoEmMVC\\ProjetoEmMVC\\ProjetoEmMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\ProjetoEmMVC\\ProjetoEmMVC\\ProjetoEmMVC.csproj",
+        "projectUniqueName": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ProjetoEmMVC\\ProjetoEmMVC\\ProjetoEmMVC.csproj",
         "projectName": "ProjetoEmMVC",
-        "projectPath": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\ProjetoEmMVC\\ProjetoEmMVC\\ProjetoEmMVC.csproj",
+        "projectPath": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ProjetoEmMVC\\ProjetoEmMVC\\ProjetoEmMVC.csproj",
         "packagesPath": "C:\\Users\\douglas.rangel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\ProjetoEmMVC\\ProjetoEmMVC\\obj\\",
+        "outputPath": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ProjetoEmMVC\\ProjetoEmMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
