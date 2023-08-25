@@ -15,7 +15,12 @@ namespace ProjetoEmMVC.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            HomeModel model = new HomeModel();
+
+            model.Nome = "Douglas Garcia";
+            model.email = "douglas.exemplo@gmail.com";
+
+            return View(model);
         }
 
         public IActionResult Privacy()
