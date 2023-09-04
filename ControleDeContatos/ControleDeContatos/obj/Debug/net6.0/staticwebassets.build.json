@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UpjgO1cywyQbbpCHAZIr7PToa2qm/STyu7f5++6VH9o=",
+  "Hash": "DXoFxVfSty0NFiaSMgA/031nwLDJKFIvQd4dOOjp1bU=",
   "Source": "ControleDeContatos",
   "BasePath": "_content/ControleDeContatos",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ControleDeContatos.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\darkmode.css",
+      "SourceId": "ControleDeContatos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\wwwroot\\",
+      "BasePath": "_content/ControleDeContatos",
+      "RelativePath": "css/darkmode.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\darkmode.css"
     },
     {
       "Identity": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\site.css",

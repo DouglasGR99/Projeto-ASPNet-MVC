@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ControleDeContatos.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\darkmode.css",
+      "PackagePath": "staticwebassets\\css\\darkmode.css"
+    },
+    {
       "Id": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
