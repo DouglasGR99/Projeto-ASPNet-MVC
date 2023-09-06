@@ -4,11 +4,17 @@
 
 <div class="text-center">
 
-    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <a class="btn btn-outline-primary" role="button">Adicionar novo contato</a>
+    <!-- Título -->
+    <div class="text-center">
+        <h1 class="display-4">Listagem de contatos</h1>
     </div>
-    <h1 class="display-4">Listagem de contatos</h1>
 
+    <!-- Botão de criação de contato -->
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-outline-primary" role="button" asp-controller="Contato" asp-action="Criar">Adicionar novo contato</a>
+    </div>
+
+    <!-- Tabela com litagem -->
     <table class="table table-hover">
         <thead>
             <tr>
