@@ -10,52 +10,55 @@
     </div>
 
     <!-- Botão de criação de contato -->
-    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start mt-5">
         <a class="btn btn-outline-primary" role="button" asp-controller="Contato" asp-action="Criar">Adicionar novo contato</a>
     </div>
 
     <!-- Tabela com litagem -->
-    <table class="table table-hover">
-        <thead>
-            <tr>
-                <th scope="col">#</th>
-                <th scope="col">Nome</th>
-                <th scope="col">E-mail</th>
-                <th scope="col">Celular</th>
-                <th scope="col"></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th scope="row">1</th>
-                <td>Mark</td>
-                <td>Otto@gmail.com</td>
-                <td>98765-4321</td>
-                <td>
-                    <a class="btn btn-outline-warning">Editar</a>
-                    <a class="btn btn-outline-danger">Excluir</a>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">2</th>
-                <td>Jacob</td>
-                <td>Thornton@gmail.com</td>
-                <td>98765-4321</td>
-                <td>
-                    <a class="btn btn-outline-warning">Editar</a>
-                    <a class="btn btn-outline-danger">Excluir</a>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">3</th>
-                <td>Larry the Bird</td>
-                <td>Larry@gmail.com</td>
-                <td>98765-4321</td>
-                <td>
-                    <a class="btn btn-outline-warning">Editar</a>
-                    <a class="btn btn-outline-danger">Excluir</a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <div class="mt-2">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Nome</th>
+                    <th scope="col">E-mail</th>
+                    <th scope="col">Celular</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Mark</td>
+                    <td>Otto@gmail.com</td>
+                    <td>98765-4321</td>
+                    <td>
+                        <a class="btn btn-outline-warning" asp-controller="Contato" asp-action="Editar">Editar</a>
+                        <a class="btn btn-outline-danger">Excluir</a>
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td>Jacob</td>
+                    <td>Thornton@gmail.com</td>
+                    <td>98765-4321</td>
+                    <td>
+                        <a class="btn btn-outline-warning" asp-controller="Contato" asp-action="Editar">Editar</a>
+                        <a class="btn btn-outline-danger">Excluir</a>
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">3</th>
+                    <td>Larry the Bird</td>
+                    <td>Larry@gmail.com</td>
+                    <td>98765-4321</td>
+                    <td>
+                        <a class="btn btn-outline-warning" asp-controller="Contato" asp-action="Editar">Editar</a>
+                        <a class="btn btn-outline-danger">Excluir</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
 </div>

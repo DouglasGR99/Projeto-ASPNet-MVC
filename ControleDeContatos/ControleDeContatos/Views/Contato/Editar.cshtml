@@ -1,5 +1,32 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["Title"] = "Edição de contato";
 }
+
+<!-- Título -->
+<div class="text-center">
+    <h1 class="display-4">Editar Contato</h1>
+</div>
+
+<!-- Formulario de criação -->
+<div>
+    <form>
+        <!-- Caixa do nome -->
+        <div class="form-group">
+            <label for="nome">Nome</label>
+            <input type="text" class="form-control" placeholder="Nome do Contato">
+        </div>
+        <!-- Caixa de email -->
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Email do Contato">
+        </div>
+        <!-- Caixa do celular -->
+        <div class="form-group">
+            <label for="celular">Celular</label>
+            <input type="text" class="form-control" placeholder="Número de telefone">
+        </div>
+
+        <button type="submit" class="btn btn-outline-warning mt-5">Aplicar alterações</button>
+        <a class="btn btn-outline-danger mt-5" asp-controller="Contato" asp-action="Index" role="button">Voltar</a>
+    </form>
+</div>
