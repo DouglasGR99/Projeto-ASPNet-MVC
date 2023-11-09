@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yQVn6hxiBkzuIYK4SukQvmoTiOv5VqK9em/fm9Qh+6g=",
+  "Hash": "8Pz5IlbF6VUNxyTXfvIln3Kdm0Av5NGbmbG4zCquq4Q=",
   "Source": "ControleDeContatos",
   "BasePath": "_content/ControleDeContatos",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\darkmode.css"
+    },
+    {
+      "Identity": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\Imagens\\qr.png",
+      "SourceId": "ControleDeContatos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\wwwroot\\",
+      "BasePath": "_content/ControleDeContatos",
+      "RelativePath": "css/Imagens/qr.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Imagens\\qr.png"
     },
     {
       "Identity": "C:\\Users\\douglas.rangel\\Desktop\\Projeto ASPNet MVC\\Projeto-ASPNet-MVC\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\site.css",
